@@ -15,5 +15,5 @@ module.exports = function createDreamTeam(members) {
   for(let i=0; i<checkMembers.length; i++){
     res += checkMembers[i][0];
   }
-  return res;
+  return  res;
 };
